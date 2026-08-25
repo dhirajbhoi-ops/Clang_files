@@ -1,0 +1,65 @@
+C-Programming-Journey/
+│
+├── 01_Basics/
+│   ├── hello_world.c
+│   ├── variables.c
+│   ├── data_types.c
+│   ├── input_output.c
+│   ├── operators.c
+│   └── type_casting.c
+│
+├── 02_Conditionals/
+│   ├── if_else.c
+│   ├── nested_if.c
+│   ├── switch.c
+│   └── calculator.c
+│
+├── 03_Loops/
+│   ├── for_loop.c
+│   ├── while_loop.c
+│   ├── do_while.c
+│   ├── multiplication_table.c
+│   ├── factorial.c
+│   └── pattern_programs.c
+│
+├── 04_Functions/
+│   ├── basic_function.c
+│   ├── parameters.c
+│   ├── return_values.c
+│   ├── recursion.c
+│   └── fibonacci.c
+│
+├── 05_Arrays/
+│   ├── array_input.c
+│   ├── sum_array.c
+│   ├── max_min.c
+│   ├── searching.c
+│   └── sorting.c
+│
+├── 06_Strings/
+│   ├── string_input.c
+│   ├── string_length.c
+│   ├── string_reverse.c
+│   └── palindrome.c
+│
+├── 07_Pointers/
+│   ├── pointer_basics.c
+│   ├── pointer_and_array.c
+│   ├── pointer_and_function.c
+│   └── pointer_swap.c
+│
+├── 08_Structures/
+│   ├── structure_basics.c
+│   ├── student_record.c
+│   └── employee_record.c
+│
+├── 09_File_Handling/
+│   ├── create_file.c
+│   ├── write_file.c
+│   ├── read_file.c
+│   └── student_database.c
+│
+└── 10_Projects/
+    ├── calculator/
+    ├── student_management/
+    └── banking_system/
